@@ -1,0 +1,14 @@
+C:\Users\timsj\sandra\code\dotnet2\övning6\bin\Debug\net8.0\övning6.exe
+C:\Users\timsj\sandra\code\dotnet2\övning6\bin\Debug\net8.0\övning6.deps.json
+C:\Users\timsj\sandra\code\dotnet2\övning6\bin\Debug\net8.0\övning6.runtimeconfig.json
+C:\Users\timsj\sandra\code\dotnet2\övning6\bin\Debug\net8.0\övning6.dll
+C:\Users\timsj\sandra\code\dotnet2\övning6\bin\Debug\net8.0\övning6.pdb
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.AssemblyInfoInputs.cache
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.AssemblyInfo.cs
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.csproj.CoreCompileInputs.cache
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.dll
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\refint\övning6.dll
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.pdb
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\övning6.genruntimeconfig.cache
+C:\Users\timsj\sandra\code\dotnet2\övning6\obj\Debug\net8.0\ref\övning6.dll

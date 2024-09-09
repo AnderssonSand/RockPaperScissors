@@ -1,0 +1,14 @@
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.AssemblyInfoInputs.cache
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.AssemblyInfo.cs
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.csproj.CoreCompileInputs.cache
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\bin\Debug\net8.0\StenSaxPase.exe
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\bin\Debug\net8.0\StenSaxPase.deps.json
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\bin\Debug\net8.0\StenSaxPase.runtimeconfig.json
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\bin\Debug\net8.0\StenSaxPase.dll
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\bin\Debug\net8.0\StenSaxPase.pdb
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.dll
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\refint\StenSaxPase.dll
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.pdb
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\StenSaxPase.genruntimeconfig.cache
+C:\Users\timsj\sandra\code\dotnet2\Lektion7\StenSaxPase\obj\Debug\net8.0\ref\StenSaxPase.dll
